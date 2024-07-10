@@ -19,6 +19,6 @@ public class SumFun {
             input = keyboard.nextInt();
         }
         System.out.println("The sum is: " + sum);
-        
+
     }
 }
